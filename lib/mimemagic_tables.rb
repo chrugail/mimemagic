@@ -661,6 +661,7 @@ class MimeMagic
     'vob' => 'video/mpeg',
     'voc' => 'audio/x-voc',
     'vor' => 'application/vnd.stardivision.writer',
+    'vsd' => 'application/vnd.ms-visio.viewer',
     'vst' => 'image/x-tga',
     'wav' => 'audio/x-wav',
     'wax' => 'audio/x-ms-asx',
